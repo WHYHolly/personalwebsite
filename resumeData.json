@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Hangyu Wang",
+    "major": "Computer Science ",
+    "occupation": " Fall co-op and Future full-time position as Software Engineer",
+    "description": "graduate in December 2020",
+    "image": "profilepic.jpg",
+    "bio": "I am a kind, passionate, collaborative problem-solver and is looking for a new opportunity to make a difference. I have enclosed a copy of my resume for your consideration. Please don’t hesitate to contact me at any time on the details provided above.",
+    "contactmessage": "Think I'd be a good fit for your team? I'd love to hear from you!",
+    "email": "hwang143@stevens.edu",
+    "phone": "908-873-9972",
+    "address": {
+      "street": "70 Lexington Ave",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "zip": "07304"
+    },
+    "website": "http://www.hangyuwang.com",
+    "resumedownload": "./file/Resume_Hangyu_WANG.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/hangyuwang",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/whyholly",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I hold various skills on Computer Science, like NodeJS, React, Postgres SQL, mongoDB, Matlab, Apollo GraphQL, AWS EC2, JQuery, Java, JavaScript, C/C++, SQL, HTML, CSS, Python.\n And Here are the skills I often use.\n",
+    "education": [
+      {
+        "school": "Stevens Institue of Technology",
+        "degree": "M.S. Computer Science",
+        "graduated": "Expected Dec 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "New York University",
+        "degree": "M.S. Electrical Engineering",
+        "graduated": "Sep 2015 - Dec 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Beijing Institute of Technology",
+        "degree": "B.S. Electronics and Information Engineering",
+        "graduated": "Sep 2011 - Jun 2015",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "KPMG IT department - Beijing, China",
+        "title": "Software Development Engineer Intern",
+        "years": "May 2018 – Jul 2018",
+        "description": "• Developed and implemented new ERP systems and upgraded existing ones depending on project needs\n• Debugged and implemented code as needed\n• Tested the integration of the workflow on created ERP System\n• Communicated often with clients about requirements and gave updates of work"
+      },
+      {
+        "company": "Racobit – Beijing, China",
+        "title": "Researcher Intern",
+        "years": "Oct 2017 - Apr 2018",
+        "description": "• Designed a general circuit Partial TMR algorithm based on data mining algorithm\n• Extracted circuit netlist information according to hardware design\n• Generated hardware topology connection relationship by using the netlist information\n•Determined the component needed to conduct TMR according to the topology connection data processed by improved PageRank algorithm\n•Verified the efficiency of the method by hardware test on the on-orbit simulation platform"
+      },
+      {
+        "company": "Deloitte & Touché – Beijing, China",
+        "title": "Software Developer Intern",
+        "years": "Oct 2017 - Apr 2010",
+        "description": "• Tested the integration of the workflow on created ERP System\n• Debugged and implemented code as needed\n• Created the operation manual of the platform for clients"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "IDT Test Code",
+        "category": "Created for my IDT Code Test pursing for Summer intern position",
+        "image": "IDTDemo.jpg",
+        "url": "https://github.com/WHYHolly/IDTTestCode"
+      },
+      {
+        "title": "JinLiLe.tech",
+        "category": "Course Project",
+        "image": "JinlileTech.jpg",
+        "url": "https://jinlile.tech"
+      },
+      {
+        "title": "QuizMe Website",
+        "category": "Course Project",
+        "image": "QuizMe.jpg",
+        "url": "https://github.com/mdineenstevens/group9project"
+      },
+      {
+        "title": "EMF and MF Query Processor",
+        "category": "Course Project",
+        "image": "EMFandMFQueryProcessor.jpg",
+        "url": "https://github.com/WHYHolly/CS562EMFandMFQueryProcessor"
+      }
+    ]
+  }
+}
