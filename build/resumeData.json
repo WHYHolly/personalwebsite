@@ -5,7 +5,7 @@
     "occupation": " Fall co-op and Future full-time position as Software Engineer",
     "description": "graduate in December 2020",
     "image": "profilepic.jpg",
-    "bio": "I am a kind, passionate, collaborative problem-solver and looking for a new opportunity to make a difference. I have enclosed a copy of my resume for your consideration. Please don’t hesitate to contact me at any time on the details provided above.",
+    "bio": "I am a kind, passionate, collaborative problem-solver and is looking for a new opportunity to make a difference. I have enclosed a copy of my resume for your consideration. Please don’t hesitate to contact me at any time on the details provided above.",
     "contactmessage": "Think I'd be a good fit for your team? I'd love to hear from you!",
     "email": "hwang143@stevens.edu",
     "phone": "908-873-9972",
@@ -35,21 +35,21 @@
     "education": [
       {
         "school": "Stevens Institue of Technology",
-        "degree": "M.S. Computer Science",
+        "degree": "M.S. in Computer Science",
         "graduated": "Expected Dec 2020",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": " "
       },
       {
         "school": "New York University",
-        "degree": "M.S. Electrical Engineering",
+        "degree": "M.S. in Electrical Engineering",
         "graduated": "Sep 2015 - Dec 2016",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": " "
       },
       {
         "school": "Beijing Institute of Technology",
-        "degree": "B.S. Electronics and Information Engineering",
+        "degree": "B.S. in Electronics and Information Engineering",
         "graduated": "Sep 2011 - Jun 2015",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": " "
       }
     ],
     "work": [
